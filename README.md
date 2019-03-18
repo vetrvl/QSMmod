@@ -1,0 +1,3 @@
+# QSMmod
+
+FOR PHD PAPER QSM
